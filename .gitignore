@@ -1,34 +1,20 @@
-##ignore this file##
-/target
-/build
-/package
-/apollo/cmake/targets
-/apollo/cmake/build
+# Maven
+target/
+*.ser
+*.ec
 
-/apollo/src/ui/node_modules
-/apollo/src/ui/www/cache
-/apollo/src/ui/install/install.lock
+# IntelliJ Idea
+.idea/
+out/
+*.ipr
+*.iws
+*.iml
 
-.idea
-.vs
-.vscode
-*.pyc
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# OS X
 .DS_Store
-tags
-
-project_thrift
-
-CppProperties.json
-
-/apollo/src/genpy
-/apollo/src/py/packages/Common/Linux_el7_x64/tzlocal-1.3.tar.gz
-/.svn
-/SVNUpdate.bat
-/apollo/src/ui/.svn
-/apollo.sln
-/apollo.VC.db
-/apollo.VC.VC.opendb
-/.vs
-/apollo/apollo.vcxproj
-/apollo/apollo.vcxproj.filters
-/apollo/apollo.vcxproj.user
