@@ -1,0 +1,2 @@
+UserDao=com.zy.designs.abstract_factory.SSUserDaoImpl
+DepartmentDao=com.zy.designs.abstract_factory.SSDepartmentImpl
