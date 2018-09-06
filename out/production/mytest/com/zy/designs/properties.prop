@@ -1,0 +1,3 @@
+正常收费=com.zy.designs.strategy.CashNormal
+满300返100=com.zy.designs.strategy.CashReturn;300;100
+打五折=com.zy.designs.strategy.CashRebate;0.5

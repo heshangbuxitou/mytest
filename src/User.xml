@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="test">
+    <cache />
+    <!--id: 唯一标识 一个statement-->
+    <!--resultType 返回的值的单条pojo类型-->
+    <select id="findUserById" parameterType="int" resultType="com.zy.domain.User">
+        SELECT * FROM USER WHERE id=#{id}
+    </select>
+    
+    <select id="findUserByName" parameterType="java.lang.String" resultType="com.zy.domain.User">
+        SELECT * FROM USER  WHERE name LIKE '%${value}%'
+    </select>
+    
+    <insert id="insertUser" parameterType="com.zy.domain.User">
+      <!--<selectKey keyProperty="id" order="AFTER" resultType="int">-->
+        <!--SELECT LAST_INSERT_ID()-->
+      <!--</selectKey>-->
+        <selectKey keyProperty="id" order="BEFORE" resultType="int">
+            SELECT 10
+        </selectKey>
+        INSERT INTO USER VALUES (#{id}, #{name}, #{password}, #{email}, #{birthday})
+    </insert>
+
+    <delete id="deleteUserById" parameterType="int" >
+        DELETE FROM USER WHERE id=#{id}
+    </delete>
+
+    <update id="updateUser" parameterType="com.zy.domain.User">
+        UPDATE USER SET name = #{name}, birthday = #{name}, email = #{name}, password = #{password} WHERE id = #{id}
+    </update>
+
+    <update id="updateUserName" parameterType="com.zy.domain.User">
+        UPDATE USER SET name = #{name} WHERE id = #{id}
+    </update>
+</mapper>
