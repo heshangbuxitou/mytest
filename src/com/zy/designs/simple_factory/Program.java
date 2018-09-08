@@ -1,4 +1,4 @@
-package com.zy.designs;
+package com.zy.designs.simple_factory;
 
 import java.io.BufferedReader;
 import java.io.Console;

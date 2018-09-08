@@ -1,4 +1,4 @@
-package com.zy.designs;
+package com.zy.designs.simple_factory;
 
 public abstract class Operator {
     double numberA;
