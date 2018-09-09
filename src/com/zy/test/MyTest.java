@@ -1,7 +1,7 @@
 //Java时间格式转换大全
 //
 //        import java.text.*;
-//        import java.util.Calendar;
+//        import java.Util.Calendar;
 //public class VeDate {
 //    /**
 //     * 获取现在时间
@@ -85,7 +85,7 @@
 //     * @param dateDate
 //     * @return
 //     */
-//    public static String dateToStrLong(java.util.Date dateDate) {
+//    public static String dateToStrLong(java.Util.Date dateDate) {
 //        SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 //        String dateString = formatter.format(dateDate);
 //        return dateString;
@@ -97,7 +97,7 @@
 //     * @param k
 //     * @return
 //     */
-//    public static String dateToStr(java.util.Date dateDate) {
+//    public static String dateToStr(java.Util.Date dateDate) {
 //        SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
 //        String dateString = formatter.format(dateDate);
 //        return dateString;
@@ -187,9 +187,9 @@
 //
 //    做成方法
 //
-//import java.util.*;
+//import java.Util.*;
 //import java.text.*;
-//import java.util.Calendar;
+//import java.Util.Calendar;
 //
 //    public class VeDate {
 //        /**
@@ -275,7 +275,7 @@
 //         * @param dateDate
 //         * @return
 //         */
-//        public static String dateToStrLong(java.util.Date dateDate) {
+//        public static String dateToStrLong(java.Util.Date dateDate) {
 //            SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 //            String dateString = formatter.format(dateDate);
 //            return dateString;
@@ -288,7 +288,7 @@
 //         * @param k
 //         * @return
 //         */
-//        public static String dateToStr(java.util.Date dateDate) {
+//        public static String dateToStr(java.Util.Date dateDate) {
 //            SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
 //            String dateString = formatter.format(dateDate);
 //            return dateString;
@@ -409,8 +409,8 @@
 //            SimpleDateFormat myFormatter = new SimpleDateFormat("yyyy-MM-dd");
 //            long day = 0;
 //            try {
-//                java.util.Date date = myFormatter.parse(sj1);
-//                java.util.Date mydate = myFormatter.parse(sj2);
+//                java.Util.Date date = myFormatter.parse(sj1);
+//                java.Util.Date mydate = myFormatter.parse(sj2);
 //                day = (date.getTime() - mydate.getTime()) / (24 * 60 * 60 * 1000);
 //            } catch (Exception e) {
 //                return "";
@@ -638,8 +638,8 @@
 //                return 0;
 //            // 转换为标准时间
 //            SimpleDateFormat myFormatter = new SimpleDateFormat("yyyy-MM-dd");
-//            java.util.Date date = null;
-//            java.util.Date mydate = null;
+//            java.Util.Date date = null;
+//            java.Util.Date mydate = null;
 //            try {
 //                date = myFormatter.parse(date1);
 //                mydate = myFormatter.parse(date2);
