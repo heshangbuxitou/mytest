@@ -17,7 +17,7 @@ public class Program {
             System.out.println("请输入数字B：");
             String strNumberB = in.readLine();
             String strResult = "";
-            switch (strOperate){
+            switch (strOperate) {
                 case "+":
                     strResult = Double.parseDouble(strNumberA) + Double.parseDouble(strNumberB) + "";
                     break;
@@ -34,11 +34,8 @@ public class Program {
                     throw new RuntimeException("请输入正确的操作符号..");
             }
             System.out.println("计算结果为：" + strResult);
-        }catch (Exception e){
+        } catch (Exception e) {
             System.out.println("你的输入有误，请重新输入。。" + e.getMessage());
         }
-
-
-
     }
 }
