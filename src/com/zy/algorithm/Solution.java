@@ -417,18 +417,132 @@ class Solution {
         bankend.next = bankend.next.next;
         return head;
     }
+
     public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode newHead = reverseList(head.next);
-        head.next.next = head;
-        head.next=null;
-        return newHead;
+        ListNode preNode = head;
+        head = head.next;
+        preNode.next = null;
+        while (head != null) {
+            ListNode temp = head;
+            head = head.next;
+            temp.next = preNode;
+            preNode = temp;
+        }
+        return preNode;
+    }
+
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        if (l1 == null || l2 == null) {
+            return (l1 == null) ? l2 : l1;
+        }
+        ListNode merge = new ListNode(0);
+        ListNode tailNode = merge;
+        while (l1 != null && l2 != null) {
+            if (l1.val < l2.val) {
+                tailNode.next = l1;
+                l1 = l1.next;
+            } else {
+                tailNode.next = l2;
+                l2 = l2.next;
+            }
+            tailNode = tailNode.next;
+        }
+        if (l1 != null) {
+            tailNode.next = l1;
+        } else {
+            tailNode.next = l2;
+        }
+        return merge.next;
+    }
+
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
+            return true;
+        }
+        ListNode fast = head;
+        ListNode slow = head;
+        Stack<Integer> stack = new Stack<Integer>();
+        while (fast != null && fast.next != null) {
+            stack.push(slow.val);
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        //当链表为奇数个时，跳过中间元素
+        if (fast != null) {
+            slow = slow.next;
+        }
+        while (slow != null) {
+            //如果两者不相同，则该链表不是回文串
+            if (stack.pop() != slow.val) {
+                return false;
+            }
+            slow = slow.next;
+        }
+        return true;
+    }
+
+    public int maxDepth = 0;
+
+    public int maxDepth(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+        return (left > right) ? left : right + 1;
+    }
+
+    public boolean isValidBST(TreeNode root) {
+//        return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        return isBSTInOrder(root, Integer.MIN_VALUE);
+    }
+
+    private boolean isBSTInOrder(TreeNode root, int prev) {
+        if (root == null) {
+            return true;
+        }
+        if (isBSTInOrder(root.left, prev)) {
+            System.out.println(root.val + ":" + prev);
+            if (root.val > prev) {
+                prev = root.val;
+                return isBSTInOrder(root.right, prev);
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
+    }
+
+    private boolean isValidBST(TreeNode root, long minValue, long maxValue) {
+        if (root == null) {
+            return true;
+        }
+        if (root.val <= minValue || root.val >= maxValue) {
+            return false;
+        }
+        return isValidBST(root.left, minValue, root.val) && isValidBST(root.right, root.val, maxValue);
+    }
+
+    public int fibonacci(int n) {
+        int front = 1;
+        int end = 1;
+        for (int i = 0; i < n - 2; i++) {
+            int temp = front;
+            front = end + front;
+            end = temp;
+        }
+        return front;
     }
 
     public static void main(String[] args) {
         Solution solution = new Solution();
+        for(int i=1; i < 11;i ++){
+            System.out.println(solution.fibonacci(1000));
+        }
         //1,2,3,3,4,4,5
 //        int[] nums1 = new int[]{-8, -4, -1, 0, 1, 3, 4, 5, 6, 7, 9};
 //        solution.twoSumBySortArray(null, 10);
@@ -440,6 +554,8 @@ class Solution {
         String[] strs = {"c", "acc", "ccc"};
         System.out.println(solution.longestCommonPrefix(strs));
         System.out.println("123".substring(0, 0));
+        String s = "Iam君山";
+        System.out.println(s);
     }
 }
 

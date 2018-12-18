@@ -20,6 +20,7 @@ public class utils {
         }
     }
 }
+
 class ListNode {
     int val;
     ListNode next;
@@ -30,5 +31,15 @@ class ListNode {
     ListNode(int val) {
         this.val = val;
         next = null;
+    }
+}
+
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode(int x) {
+        val = x;
     }
 }
