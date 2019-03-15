@@ -1,10 +1,6 @@
 package com.zy.algorithm;
 
-import java.io.IOException;
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 class Solution {
     public void rotate(int[] nums, int k) {
@@ -484,16 +480,6 @@ class Solution {
         return true;
     }
 
-    public int maxDepth = 0;
-
-    public int maxDepth(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
-        return (left > right) ? left : right + 1;
-    }
 
     public boolean isValidBST(TreeNode root) {
 //        return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
@@ -538,11 +524,87 @@ class Solution {
         return front;
     }
 
+    public int majorityElement(int[] nums) {
+        if (nums == null || nums.length < 1) {
+            return -1;
+        }
+        int count = 1;
+        int maj = nums[0];
+        for (int i = 1, len = nums.length; i < len; i++) {
+            if (maj == nums[i]) {
+                count++;
+            } else {
+                count--;
+                if (count == 0) {
+                    maj = nums[i + 1];
+                }
+            }
+        }
+        return maj;
+    }
+
+    public int dia = 0;
+    public int maxDepth = 0;
+
+    public int maxDepth(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+        dia = Math.max(dia, left + right);
+        return ((left > right) ? left : right) + 1;
+    }
+
+    public int diameterOfBinaryTree(TreeNode root) {
+        maxDepth(root);
+        return dia;
+    }
+
+    List<List<Integer>> resultCombine = new ArrayList<>();
+
+    public List<List<Integer>> combine(int n, int k) {
+        if (n < k || n < 1) {
+            return resultCombine;
+        }
+        combine(n, k, 1, new ArrayList<Integer>());
+        return resultCombine;
+    }
+
+    private void combine(int n, int k, int index, ArrayList<Integer> list) {
+        if (k == 0) {
+            resultCombine.add(new ArrayList<>(list));
+            return;
+        }
+        for (int i = index; i <= n - k + 1; i++) {
+            list.add(i);
+            combine(n, k - 1, i + 1, list);
+            list.remove(list.size() - 1);
+        }
+    }
+
+    public List<List<Integer>> resultPermute = new ArrayList<>();
+
+    public List<List<Integer>> permute(int[] nums) {
+        if(nums == null){
+            return resultPermute;
+        }
+        int len = nums.length;
+//        soctNums()
+        return null;
+    }
+
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
+    }
+
     public static void main(String[] args) {
         Solution solution = new Solution();
-        for(int i=1; i < 11;i ++){
-            System.out.println(solution.fibonacci(1000));
-        }
+        List<List<Integer>> permute = solution.permute(new int[]{1, 2, 3, 4});
+        System.out.println();
         //1,2,3,3,4,4,5
 //        int[] nums1 = new int[]{-8, -4, -1, 0, 1, 3, 4, 5, 6, 7, 9};
 //        solution.twoSumBySortArray(null, 10);
@@ -551,11 +613,6 @@ class Solution {
 //        solution.outputMT(matrix2);
 //        solution.outputMT2(matrix2);
 //        Stream<String> stringStream = Files.lines(Paths.get("test.text"), StandardCharsets.UTF_8);
-        String[] strs = {"c", "acc", "ccc"};
-        System.out.println(solution.longestCommonPrefix(strs));
-        System.out.println("123".substring(0, 0));
-        String s = "Iam君山";
-        System.out.println(s);
     }
 }
 
