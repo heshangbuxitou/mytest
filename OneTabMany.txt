@@ -1,0 +1,698 @@
+https://juejin.im/repo/5c1b80f0e51d4537bc55c4a4?utm_source=gold_browser_extension | advanced-java - doocs / advanced-java？ - 开源库 - 掘金
+
+https://heshangbuxitou.github.io/2018/11/30/Spring-Boot%E8%87%AA%E5%8A%A8%E6%8C%81%E7%BB%AD%E5%8C%96%E9%9B%86%E6%88%90%E5%AE%9E%E8%B7%B5/#more | Spring Boot自动持续化集成实践 | SiYuYong's Blog
+https://www.v2ex.com/notes/36950 | V2EX › 可以讨论 Java 的地方实在是太少了，楼主还是憋不住了想了解一下大家是如何使用 IntelliJ IDEA 的，作为开
+https://support.huawei.com/enterprise/zh/cloud-computing/fusionstage-pid-21733180 | 华为 FusionStage 配置手册、产品文档、PDF - 华为
+https://support.huawei.com/enterprise/zh/cloud-computing/fusionstage-pid-21733180?category=configuration-commissioning&subcategory=best-practices | 华为 FusionStage 文档合集 - 华为
+
+https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/21/ | (3) 探索初级算法 - 力扣 (LeetCode)
+https://www.oschina.net/ | 开源中国 - 找到您想要的开源项目，分享和交流
+https://juejin.im/post/5c7c77f5f265da2db156365f?utm_source=gold_browser_extension | 谈谈引用和Threadlocal的那些事 - 掘金
+https://apereo.github.io/cas/4.2.x/protocol/CAS-Protocol.html | CAS - CAS Protocol
+
+http://www.importnew.com/21781.html#comments | ConcurrentHashMap源码剖析 - ImportNew
+https://mp.weixin.qq.com/s/gg4q_53eiHCI3OUWzN7eWg | 咖啡拿铁
+https://support.huawei.com/enterprise/zh/doc/EDOC1100049542?idPath=7919749%7C7919788%7C9856606%7C21734214%7C21733180 | FusionStage 2.2.1 服务发布开发指南 - 华为
+file:///D:/work/FusionStage%202.2.1%20%E6%9C%8D%E5%8A%A1%E5%8F%91%E5%B8%83%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.pdf | 服务发布开发指南
+
+http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy | 编程的智慧
+
+https://juejin.im/post/5c2897a76fb9a049d441e68a?utm_source=gold_browser_extension | 使用Java Socket手撸一个http服务器 - 掘金
+https://juejin.im/post/5ab34d21f265da23766b30ed#heading-37 | mysql之高性能索引 - 掘金
+http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy | 编程的智慧
+https://192.168.247.56:9600/dataprotect/recovery/genrestoredit | AnyBackup CDM
+
+https://juejin.im/repo/5c1b80f0e51d4537bc55c4a4?utm_source=gold_browser_extension#spring-cloud-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84 | advanced-java - doocs / advanced-java？ - 开源库 - 掘金
+
+https://juejin.im/repo/5b90d076518825028eb34b15?utm_source=gold_browser_extension#spring | JavaGuide - Snailclimb - 开源库 - 掘金
+
+https://leetcode-cn.com/problems/permutations/submissions/ | (3) 全排列 - 力扣 (LeetCode)
+
+https://music.163.com/#/user/home?id=354446093 | ▶ Aggressive Michael
+https://bbs.csdn.net/topics/70266552 | Union 后执行速度变慢！-CSDN论坛
+https://www.google.com.hk/search?newwindow=1&safe=strict&ei=XlUjXKHaBIn78QXy947YDA&q=django+orm+group+by&oq=django+orm+grou&gs_l=psy-ab.3.0.0l3j0i30l7.163633.164281..166402...0.0..0.82.314.4......0....1..gws-wiz.eWZZqwnDJ40 | django orm group by - Google 搜索
+https://www.laurencegellert.com/2016/09/django-group-by-having-query-example/ | Django Group By Having Query Example » Laurence Gellert's Blog
+
+https://juejin.im/post/5c190f02518825046c2f6a5c?utm_source=gold_browser_extension | 【Java进阶面试系列之四】扎心！线上服务宕机时，如何保证数据100%不丢失？【石杉的架构笔记】 - 掘金
+https://juejin.im/post/5c17a521f265da611f079bb6 | 【Java进阶面试系列之三】哥们，消息中间件在你们项目里是如何落地的？【石杉的架构笔记】 - 掘金
+https://juejin.im/post/5c1214a66fb9a049bb7c3410 | 【Java进阶面试系列之二】：哥们，那你说说系统架构引入消息中间件有什么缺点？ - 掘金
+https://juejin.im/post/5c0fbaf8f265da616f6fd0c3 | Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？ - 掘金
+
+https://juejin.im/post/5c0fbaf8f265da616f6fd0c3?utm_source=gold_browser_extension | Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？ - 掘金
+https://juejin.im/post/5c062c87e51d451dbc21801b | 大白话聊聊Java并发面试问题之Java 8如何优化CAS性能？【石杉的架构笔记】 - 掘金
+
+https://github.com/iluwatar/java-design-patterns/tree/master/abstract-factory | java-design-patterns/abstract-factory at master · iluwatar/java-design-patterns
+https://github.com/qiurunze123/miaosha?utm_source=gold_browser_extension | qiurunze123/miaosha: 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+
+https://juejin.im/post/5c0fbaf8f265da616f6fd0c3?utm_source=gold_browser_extension | Java进阶面试系列之一：哥们，你们的系统架构中为什么要引入消息中间件？ - 掘金
+http://192.168.123.47:8080/job/BackupService/ | BackupService [Jenkins]
+http://192.168.248.76/AnyBackup/Apollo/merge_requests | Merge Requests · AnyBackup / Apollo · GitLab
+https://www.v2ex.com/ | V2EX
+
+http://confluence.eisoo.com/dosearchsite.action?cql=siteSearch+~+%22hezhiming%22&queryString=hezhiming | 搜索 - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379052 | AnyShare整机备份V3.0 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=11409976 | (A+C)定时备份-AB[AnyShare文档库] - AnyBackup - Eisoo Confluence
+https://192.168.209.79:9600/login | AnyBackup CDM
+http://jira.eisoo.com/browse/PCB-18423 | [PCB-18423] 7.0.4.0 操作系统客户端断网恢复后无法重新上线 - Eisoo Jira
+https://172.17.115.60:9600/dataprotect/timing | AnyBackup CDM
+https://juejin.im/post/5c11034f51882516eb564c72?utm_source=gold_browser_extension | Java 11 已发布，String 还能这样玩！ - 掘金
+
+https://10.2.14.32:9600/dataprotect/timing/backupnew | AnyBackup CDM
+https://10.2.10.151:9600/dataprotect/timing | AnyBackup
+https://docker_practice.gitee.io/introduction/why.html | 为什么要用 Docker · Docker -- 从入门到实践
+
+http://confluence.eisoo.com/dosearchsite.action?queryString=%E5%A4%87%E4%BB%BD%E6%9C%8D%E5%8A%A1 | 搜索 - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379760 | 定时备份服务设计目标 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379846 | 定时备份服务需求愿景 - AnyBackup - Eisoo Confluence
+https://www.v2ex.com/?tab=creative | V2EX
+https://juejin.im/post/5b6ff54ae51d45667f387a21#heading-18 | Java 异常你必须了解的一些知识 - 掘金
+
+http://192.168.123.47:8080/job/BackupService/2072/ | BackupService #2072 [Jenkins]
+https://juejin.im/entry/5c08a875e51d451da068bcc6?utm_source=gold_browser_extension | 两道面试题，带你透彻解析Java类加载机制 - 后端 - 掘金
+http://192.168.123.47:8080/job/BackupService/ | BackupService [Jenkins]
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379867 | 服务器 - AnyBackup - Eisoo Confluence
+https://severalnines.com/blog/how-recover-galera-cluster-or-mysql-replication-split-brain-syndrome | How to Recover Galera Cluster or MySQL Replication from Split Brain Syndrome | Severalnines
+https://www.v2ex.com/?tab=all | V2EX
+https://livid.v2ex.com/essays/2013/09/15/v2ex-lessons.html | V2EX 从过去一年半中学到的几件事 | Livid
+chrome://downloads/ | 下载内容
+https://www.vagrantup.com/downloads.html | Download - Vagrant by HashiCorp
+https://www.v2ex.com/t/82642 | V2EX 从过去一年半中学到的几件事 - V2EX
+
+https://www.v2ex.com/t/512416#reply83 | [转]知乎社区核心业务 Golang 化实践 - V2EX
+https://zhuanlan.zhihu.com/p/48039838 | 知乎社区核心业务 Golang 化实践 - 知乎
+http://192.168.199.223:8070/backups/restful/post_backup_jobs.html | POST /backups/backup_jobs — AnyBackup7.0 1.0.0 文档
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379531 | bug修复文档 - AnyBackup - Eisoo Confluence
+
+https://github.com/frank-lam/2019_campus_apply | frank-lam/2019_campus_apply: Full Stack Developer Tutorial，后台技术栈/全栈开发/架构师之路，秋招/春招/校招/面试。 from zero to hero.
+https://github.com/frank-lam/SpringMVC_MyBatis_Learning | frank-lam/SpringMVC_MyBatis_Learning: Spring+SpringMVC+MyBatis Learning Notes
+
+https://python3-cookbook.readthedocs.io/zh_CN/latest/c13/p02_terminate_program_with_an_error_message.html | 13.2 终止程序并给出错误信息 — python3-cookbook 3.0.0 文档
+https://github.com/Snailclimb/JavaGuide/blob/29d2e7ca04a831b335b64556f100f1ef46bf313f/Java%E7%9B%B8%E5%85%B3/ArrayList-Grow.md | JavaGuide/ArrayList-Grow.md at 29d2e7ca04a831b335b64556f100f1ef46bf313f · Snailclimb/JavaGuide
+https://172.17.111.23:9600/login | AnyBackup
+http://192.168.248.76/AnyBackup/apollo_ci/blob/master/jenkins_main_job.sh | jenkins_main_job.sh · master · AnyBackup / apollo_ci · GitLab
+https://mubu.com/list#28ezL_Jvur | 我的文档 - 幕布
+https://juejin.im/post/5be8c779f265da616f6f7db4 | 不改一行代码定位线上性能问题 - 掘金
+http://dongxicheng.org/search-engine/thrift-guide/ | 董的博客 » Thrift使用指南
+https://www.google.com.hk/search?q=python%2B%E8%AE%BE%E7%BD%AEThrift__isset%E5%80%BC&oq=python%2B%E8%AE%BE%E7%BD%AEThrift__isset%E5%80%BC&aqs=chrome..69i57.798j0j1&sourceid=chrome&ie=UTF-8 | python+设置Thrift__isset值 - Google 搜索
+https://172.17.111.23:9600/login | AnyBackup
+https://niconode.net/u/service/19710/0/ | 管理器 - NicoNode
+https://docs.niconode.net/#/windows/nclient | NClient - NicoNode Document
+chrome://downloads/ | 下载内容
+https://www.google.com.hk/search?safe=strict&ei=NsvqW4D5BoaurgSM05aADA&q=ss+%E4%BD%BF%E7%94%A8&oq=ss+%E4%BD%BF%E7%94%A8&gs_l=psy-ab.3...29569.31717.0.31887.11.9.0.0.0.0.525.1209.3-2j0j1.3.0....0...1c.1j4.64.psy-ab..9.2.829...0.0.ewDnbv4-5A4 | ss 使用 - Google 搜索
+https://doub.io/ss-jc10/ | ShadowsocksR 客户端 小白使用教程 | 逗比根据地
+https://www.jianshu.com/p/8decfd3e6048 | ss代理使用教程 - 简书
+https://www.google.com.hk/search?q=pac%E6%96%87%E4%BB%B6&oq=pac%E6%96%87%E4%BB%B6&aqs=chrome..69i57j0l5.5920j0j1&sourceid=chrome&ie=UTF-8 | pac文件 - Google 搜索
+https://doub.io/ss-jc59/ | 『修复』做了个GFWList PAC最新下载地址，可用于更新 SSR PC客户端的PAC | 逗比根据地
+https://niconode.net/u/service/19710/0/ | 管理器 - NicoNode
+
+https://www.google.ru/search?q=%E4%BB%8E%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%88%A0%E9%99%A4%E9%87%8D%E5%A4%8D%E9%A1%B9&oq=%E4%BB%8E%E6%8E%92%E5%BA%8F&aqs=chrome.1.69i57j0l5.3064j0j1&sourceid=chrome&ie=UTF-8 | 从排序数组中删除重复项 - Google 搜索
+https://blog.csdn.net/m0_37591251/article/details/78678682 | Leetcode-26-从排序数组中删除重复项 - 小菜汪的小窝 - CSDN博客
+https://blog.csdn.net/biezhihua/article/details/79444034 | LeetCode - 从排序数组中删除重复项 - biezhihua的专栏 - CSDN博客
+https://www.google.ru/search?q=java+%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8&oq=java+%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8&aqs=chrome..69i57j69i61j0l4.3114j0j1&sourceid=chrome&ie=UTF-8 | java 测试使用 - Google 搜索
+https://leetcode-cn.com/accounts/signup/ | 注册 - 领扣 (LeetCode)
+https://instcode.top/register | 注册| InstCode
+https://blog.csdn.net/Zen99T/article/details/50603847 | Java单元测试工具：JUnit4（二）——JUnit使用详解 - 添仔哥哥 - CSDN博客
+
+https://juejin.im/post/5bcd19fbe51d457a964d08d7?utm_source=gold_browser_extension | 看图轻松理解数据结构与算法系列(红黑树) - 掘金
+https://www.google.ru/search?newwindow=1&ei=HnvOW8vPCcqKmgXYso-4Cw&q=%E6%8E%92%E5%BA%8F%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6&oq=%E6%8E%92%E5%BA%8F%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6&gs_l=psy-ab.3..0i7i30k1l5.4141.4141.0.4462.1.1.0.0.0.0.244.244.2-1.1.0....0...1c.4.64.psy-ab..0.1.242....0.XBwhfAKY_jk | 排序时间复杂度 - Google 搜索
+https://blog.csdn.net/weiwenhp/article/details/8622728 | 各种排序算法比较(2):时间复杂度,空间复杂度 - weiwenhp - CSDN博客
+
+https://github.com/tomoya92/pybbs | tomoya92/pybbs: 更好用的Java语言社区(论坛)
+https://github.com/TogetherOS/cicada/blob/master/README-ZH.md | cicada/README-ZH.md at master · TogetherOS/cicada
+https://github.com/tomoya92/pybbs | tomoya92/pybbs: 更好用的Java语言社区(论坛)
+https://github.com/TogetherOS/cicada | TogetherOS/cicada: 🚀 Fast lightweight HTTP service framework.
+
+https://github.com/kdn251/interviews?utm_source=gold_browser_extension | kdn251/interviews: Everything you need to know to get the job.
+http://yikun.github.io/archives/ | Archives | Yikun
+http://yikun.github.io/2015/04/01/Java-HashMap%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AE%9E%E7%8E%B0/ | Java HashMap工作原理及实现 | Yikun
+
+https://172.17.111.23:9600/login | AnyBackup
+https://172.17.111.23:9600/usermgm/list | AnyBackup
+http://confluence.eisoo.com/dosearchsite.action?queryString=%E8%B0%83%E8%AF%95 | 搜索 - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=9867228 | CDM Python服务相关 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=6291825 | BackupService 框架与应用分层详解 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379362 | 操作系统备份恢复 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com:8090/pages/viewpage.action?pageId=16515217 | (A+C)定时备份-AB[操作系统] - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com:8090/pages/viewpage.action?pageId=16515220 | (A+C)数据恢复-AB[操作系统] - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com:8090/pages/viewpage.action?pageId=9864545 | (A+C)数据恢复-AB[标签页][普通恢复] - AnyBackup - Eisoo Confluence
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379889 | AB7.0 管理端 开发生产环境部署方案 - AnyBackup - Eisoo Confluence
+https://github.com/kdn251/interviews/blob/master/README-zh-cn.md | interviews/README-zh-cn.md at master · kdn251/interviews
+https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
+https://github.com/crossoverJie/JCSprout/blob/master/src/main/java/com/crossoverjie/actual/TwoThread.java | JCSprout/TwoThread.java at master · crossoverJie/JCSprout
+https://github.com/crossoverJie/JCSprout/blob/27240fade644d815b11ca399e51a4c33adc429c3/src/main/java/com/crossoverjie/actual/ThreadCommunication.java | JCSprout/ThreadCommunication.java at 27240fade644d815b11ca399e51a4c33adc429c3 · crossoverJie/JCSprout
+
+https://www.youtube.com/watch?v=aNPcIA0Fk-o | 上大学，如何拖垮穷人？中国纪录片《出路》 - YouTube
+https://www.google.ru/search?q=%E5%87%BA%E8%B7%AF&oq=%E5%87%BA%E8%B7%AF&aqs=chrome..69i57j69i61l2.2829j0j1&sourceid=chrome&ie=UTF-8 | 出路 - Google 搜索
+
+http://ifeve.com/15-java-faq/comment-page-1/#comment-20078 | 15个顶级Java多线程面试题及回答 | 并发编程网 – ifeve.com
+http://www.ituring.com.cn/article/111835 | Java 多线程面试问题汇总-图灵社区
+https://www.google.ru/search?q=linkedhashmap+%E7%BB%93%E6%9E%84&oq=linkedhashmap+%E7%BB%93%E6%9E%84&aqs=chrome..69i57.9161j0j1&sourceid=chrome&ie=UTF-8 | linkedhashmap 结构 - Google 搜索
+https://yikun.github.io/2015/04/02/Java-LinkedHashMap%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AE%9E%E7%8E%B0/ | Java LinkedHashMap工作原理及实现 | Yikun
+http://yikun.github.io/archives/ | Archives | Yikun
+http://yikun.github.io/2014/03/13/nginxstart/ | nginx启动流程分析 | Yikun
+http://yikun.github.io/2014/03/16/nginxchannel/ | nginx中channel机制 | Yikun
+https://music.163.com/#/song?id=63787 | 我爱的人 - 陈小春 - 单曲 - 网易云音乐
+
+https://www.v2ex.com/?tab=play | V2EX
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992100 | D2C云备份-定时备份至云存储-文件 - AnyBackup - Eisoo Confluence
+http://www.ituring.com.cn/article/111835 | Java 多线程面试问题汇总-图灵社区
+http://ifeve.com/15-java-faq/comment-page-1/#comment-20078 | 15个顶级Java多线程面试题及回答 | 并发编程网 – ifeve.com
+http://192.168.199.223:8070/backups/restful/storage.html#post-backups-storage-job-metadata | GET /backups/storage/jobs — AnyBackup7.0 1.0.0 文档
+
+https://www.google.ru/search?q=linkedhashmap+%E7%BB%93%E6%9E%84&oq=linkedhashmap+%E7%BB%93%E6%9E%84&aqs=chrome..69i57.9161j0j1&sourceid=chrome&ie=UTF-8 | linkedhashmap 结构 - Google 搜索
+https://yikun.github.io/2015/04/02/Java-LinkedHashMap%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E5%8F%8A%E5%AE%9E%E7%8E%B0/ | Java LinkedHashMap工作原理及实现 | Yikun
+https://yikun.github.io/2015/04/03/%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AALRU-Cache%EF%BC%9F/ | 如何设计实现一个LRU Cache？ | Yikun
+
+https://172.17.111.23:9600/resources/clientmgm | AnyBackup
+http://jira.eisoo.com/secure/Dashboard.jspa | System Dashboard - Eisoo Jira
+https://music.163.com/#/friend | ▶ 风云决
+https://www.lintcode.com/problem/ | LintCode 领扣
+https://www.lintcode.com/problem/string-compression/description | 213. 字符串压缩 - LintCode
+https://www.google.ru/search?q=%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8E%8B%E7%BC%A9&oq=%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8E%8B%E7%BC%A9&aqs=chrome..69i57j69i61l2&sourceid=chrome&ie=UTF-8 | 字符串压缩 - Google 搜索
+
+https://yeasy.gitbooks.io/docker_practice/image/dockerfile/cmd.html | CMD 容器启动命令 · Docker —— 从入门到实践
+https://music.163.com/#/playlist?id=569020058 | ▶ Shape of You
+https://www.google.ru/search?newwindow=1&ei=yZatW4jeK4K5sQHkv4DQCQ&q=docker+%E9%95%9C%E5%83%8F%E8%BF%90%E8%A1%8C%E7%94%A8%E6%88%B7%E4%B8%8D%E6%98%AFroot&oq=docker+%E9%95%9C%E5%83%8F%E8%BF%90%E8%A1%8C%E7%94%A8%E6%88%B7%E4%B8%8D%E6%98%AFroot&gs_l=psy-ab.3...5809.6151.0.6552.2.2.0.0.0.0.233.456.2-2.2.0....0...1c.1j4.64.psy-ab..0.0.0....0.bz_d3-7GbA0 | docker 镜像运行用户不是root - Google 搜索
+https://codeday.me/bug/20180127/124636.html | git – 将Docker镜像内的用户切换到非root用户 - 代码日志
+https://codeday.me/bug/20171023/88367.html | linux – 了解docker中的用户文件所有权：如何避免更改链接卷的权限 - 代码日志
+https://yeasy.gitbooks.io/docker_practice/introduction/what.html | 什么是 Docker · Docker —— 从入门到实践
+
+http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html | Docker 微服务教程 - 阮一峰的网络日志
+https://blog.csdn.net/hazir/article/details/45111161 | 最小 Docker 镜像 hello-world 剖析 - CSDN博客
+https://www.jianshu.com/p/ef8f17442d8f?utm_campaign=maleskine&utm_content=note&utm_medium=reader_share&utm_source=qzone&dt_ref=02B380E3F459AA448E530105625086E9A77C7CC8181139C392CC2B8C600427BEFF1520EFD660EAFA&dt_dapp=1 | docker入门，如何部署Django uwsgi nginx应用 - 简书
+http://jira.eisoo.com/secure/Dashboard.jspa | System Dashboard - Eisoo Jira
+https://www.google.ru/search?q=java+%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81&oq=java+%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81&aqs=chrome..69i57.12188j0j1&sourceid=chrome&ie=UTF-8 | java 最新动态 - Google 搜索
+
+https://github.com/wuyouzhuguli/SpringAll?utm_source=gold_browser_extension | wuyouzhuguli/SpringAll: 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码
+
+https://hub.docker.com/_/ubuntu/ | library/ubuntu - Docker Hub
+https://www.douyu.com/g_LOL | 英雄联盟直播_lol直播_英雄联盟直播视频解说攻略_斗鱼直播
+https://www.douyu.com/138243 | 洞主歌神洞庭湖_洞主直播间138243_英雄联盟LOL直播_斗鱼-每个人的直播平台
+https://www.google.ru/search?newwindow=1&ei=neisW_H3LMyrswGFg5X4Dg&q=docker+%E5%8F%AA%E8%83%BD%E6%8C%82%E4%B8%80%E4%B8%AAnginx%E6%88%96%E8%80%85web%E5%BA%94%E7%94%A8%EF%BC%9F&oq=docker+%E5%8F%AA%E8%83%BD%E6%8C%82%E4%B8%80%E4%B8%AAnginx%E6%88%96%E8%80%85web%E5%BA%94%E7%94%A8%EF%BC%9F&gs_l=psy-ab.3...182408.193401.0.193674.15.15.0.0.0.0.635.3346.2-4j2j1j2.9.0....0...1c.1j4.64.psy-ab..7.1.632...0j0i67k1j0i12k1.0.WkQS_uUjWIk | docker 只能挂一个nginx或者web应用？ - Google 搜索
+https://zhuanlan.zhihu.com/p/26418829 | 用Docker部署一个Web应用
+https://jiayi.space/post/shi-yong-dockeryi-jian-bu-shu-webying-yong | 使用docker一键部署Web应用
+http://www.qingpingshan.com/jb/python/363239.html | 用Docker部署Flask应用_清屏网_在线知识学习平台
+
+http://192.168.123.47:8080/job/BackupService/1758/ | BackupService #1758 [Jenkins]
+https://www.jianshu.com/p/0aa535e681f5 | Docker中使用CentOS7镜像 - 简书
+https://hub.docker.com/_/centos/ | library/centos - Docker Hub
+https://www.kancloud.cn/thinkphp/docker-guide/39727 | 用户指南 · Docker中文指南 · 看云
+http://www.yinwang.org/blog-cn/2012/08/01/interpreter | 怎样写一个解释器
+https://www.google.com.hk/search?q=%E6%80%8E%E6%A0%B7%E5%86%99%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%E5%99%A8&oq=%E6%80%8E%E6%A0%B7%E5%86%99%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%E5%99%A8&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8 | 怎样写一个解释器 - Google 搜索
+https://www.jianshu.com/p/b4678afbeb1f | 这样就实现了一个解释器？ - 简书
+https://blog.csdn.net/zdy0_2004/article/details/42610887 | 王垠的「40 行代码」真如他说的那么厉害吗？ - CSDN博客
+http://blog.jobbole.com/25253/ | 王垠：怎样写一个解释器 - 文章 - 伯乐在线
+https://www.jianshu.com/u/b1dd2b2c87a8 | 正义的花生 - 简书
+https://www.jianshu.com/p/509505d3bd50 | 怎样写一个解释器 - 简书
+https://www.jianshu.com/p/509505d3bd50 | 怎样写一个解释器 - 简书
+https://www.zhihu.com/explore | 发现 - 知乎
+https://www.zhihu.com/question/61537958/answer/498021787 | (6 封私信 / 80 条消息)看了神奇宝贝（宠物小精灵）无印后，为什么感觉前期的最好看？ - 知乎
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=21365661#id-(A+C)%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D-AB[%E9%80%9A%E7%94%A8][V2][%E6%96%B9%E6%A1%883]-3.1.2.5%E4%BB%BB%E5%8A%A1%E4%BF%A1%E6%81%AF%E7%A1%AE%E8%AE%A4 | (A+C)数据恢复-AB[通用][V2][方案3] - AnyBackup - Eisoo Confluence
+http://jira.eisoo.com/secure/Dashboard.jspa | System Dashboard - Eisoo Jira
+https://grazier96.github.io/2018/09/25/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%B8%A9%E5%9D%91%E4%B9%8Bwxml%E7%AF%87/ | 小程序踩坑之wxml篇 · graZier96 Blog
+https://www.google.ru/search?newwindow=1&ei=WlmrW9eWIofQrgSok5q4Cg&q=pycharm+%E7%82%B9%E5%87%BBshow+in+explorer%E5%8D%A1%E4%BD%8F%E4%BA%86&oq=pycharm+%E7%82%B9%E5%87%BBshow+in+explorer%E5%8D%A1%E4%BD%8F%E4%BA%86&gs_l=psy-ab.3...75486.77132.0.78502.3.3.0.0.0.0.236.466.2-2.2.0....0...1c.1j4.64.psy-ab..1.0.0....0.499vKjQ4aPo | pycharm 点击show in explorer卡住了 - Google 搜索
+https://www.bbsmax.com/A/ke5jQWl7Jr/ | [已解决] 点击 【Show in system explorer】Eclipse卡死，未响应
+https://www.jianshu.com/p/9c65b7613c30 | IntelliJ IDEA 使用教程(2018图文版) -- 从入门到上瘾 - 简书
+chrome://downloads/ | 下载内容
+http://jira.eisoo.com/browse/AMSP-172 | [AMSP-172] AB 7.0.2.0-D2C-ST 存在多个云存储，新建D2C恢复任务，已选云存储列表下包含所有D2C备份任务 - Eisoo Jira
+
+https://172.17.114.231:9600/storage/node/config#storage_node_volume_cloud | AnyBackup
+http://jira.eisoo.com/browse/AMSP-168?filter=-1 | [AMSP-168] AB 7.0.2.0-云存储管理-ST 云存储已备份数据量未统计，显示为0 - Eisoo Jira
+http://jira.eisoo.com/browse/AMSP-201?filter=-1 | [AMSP-201] AB 7.0.2.0-D2C-ST 多次删除、重建索引卷后，索引卷名称与输入的名称不一致 - Eisoo Jira
+http://jira.eisoo.com/browse/AMSP-168?filter=-1 | [AMSP-168] AB 7.0.2.0-云存储管理-ST 云存储已备份数据量未统计，显示为0 - Eisoo Jira
+http://jira.eisoo.com/browse/AMSP-200?filter=-1 | [AMSP-200] AB 7.0.2.0-D2C-ST 索引卷已删除，再次创建相同名称索引卷，提示名称已存在，无法创建成功 - Eisoo Jira
+http://jira.eisoo.com/browse/AMSP-201?filter=-1 | [AMSP-201] AB 7.0.2.0-D2C-ST 多次删除、重建索引卷后，索引卷名称与输入的名称不一致 - Eisoo Jira
+http://jira.eisoo.com/secure/Dashboard.jspa | System Dashboard - Eisoo Jira
+https://10.2.20.19:9600/dataprotect/recovery/genrestoredit | AnyBackup
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379158 | AB7.0-测试设计 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com:8090/pages/viewpage.action?pageId=3379889 | AB7.0 管理端 开发生产环境部署方案 - AnyBackup - Eisoo Confluence
+http://192.168.248.76/AnyBackup/Apollo/merge_requests/6799 | Dev（第四个需要合一下分支） (!6799) · Merge Requests · AnyBackup / Apollo · GitLab
+https://192.168.199.210:9600/resources/cloudstorage | AnyBackup
+http://192.168.199.223:8070/commons/index.html | 公共服务接口 — AnyBackup7.0 1.0.0 文档
+https://www.google.ru/search?q=python+%E6%97%A5%E5%BF%97+%E8%AE%B0%E5%BD%95%E5%BC%82%E5%B8%B8&oq=python+%E6%97%A5%E5%BF%97+%E8%AE%B0%E5%BD%95%E5%BC%82%E5%B8%B8&aqs=chrome..69i57j0.7797j0j4&sourceid=chrome&ie=UTF-8 | python 日志 记录异常 - Google 搜索
+https://blog.csdn.net/waleking/article/details/7524854 | python日志记录完整的异常信息traceback stack - CSDN博客
+https://blog.csdn.net/Waleking/article/details/7524854 | python日志记录完整的异常信息traceback stack - CSDN博客
+
+http://192.168.248.76/AnyBackup/Apollo | AnyBackup / Apollo · GitLab
+http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html | www.ruanyifeng.com/blog/2018/02/docker-tutorial.html
+http://192.168.123.47:8080/job/BackupService/ | BackupService [Jenkins]
+https://172.17.111.35:9600/login | https://172.17.111.35:9600/login
+https://172.17.114.227:9600/resources/cloudstorage | 
+http://192.168.123.46/ci-jobs/AB7.0/package/AnyBackupServer/Linux_el7_x64/ | Index of /ci-jobs/AB7.0/package/AnyBackupServer/Linux_el7_x64/
+
+http://confluence.eisoo.com/dosearchsite.action?cql=siteSearch+~+%22ip+addr%22&queryString=ip+addr | 搜索 - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379086 | 服务器安装部署 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3378844 | AnyBackup 7.0 构建平台搭建、节点及相关配置 - AnyBackup - Eisoo Confluence
+http://192.168.199.210:8080/ | 192.168.199.210
+http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html | Docker 入门教程 - 阮一峰的网络日志
+https://juejin.im/entry/5958f544f265da6c317d9c8f | Docker系列之Jenkins自动化部署 - 后端 - 掘金
+https://www.cnblogs.com/liqiu/p/4162719.html | docker使用笔记 - 李秋 - 博客园
+
+http://192.168.123.47:8080/job/BackupService/label=Linux_el7_x64/1685/console | BackupService » Linux_el7_x64 #1685 Console [Jenkins]
+http://192.168.248.76/AnyBackup/Apollo/merge_requests | Merge Requests · AnyBackup / Apollo · GitLab
+http://192.168.248.76/AnyBackup/Apollo/merge_requests | Merge Requests · AnyBackup / Apollo · GitLab
+https://172.17.111.35:9600/resources/cloudstorage | AnyBackup
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992102 | [D2D2C云备份]设计 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992106 | D2C云备份-数据恢复-文件 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3378844 | AnyBackup 7.0 构建平台搭建、节点及相关配置 - AnyBackup - Eisoo Confluence
+
+https://juejin.im/post/5b99d4bce51d450e7a24b66e?utm_source=gold_browser_extension | 互联网公司面试必问的Redis题目 - 掘金
+http://confluence.eisoo.com/pages/viewpage.action?pageId=15270118 | D2C及D2D2C方案设计 - AnyBackup - Eisoo Confluence
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=14320214 | (A+C)定时备份-AB[Oracle数据库] - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/dosearchsite.action?queryString=backupService | 搜索 - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379760 | 定时备份服务设计目标 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=22184258 | 8.Oracle客户端服务 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=22184339 | 9.Oracle py模块 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=21366263 | D2C云备份-数据清理 - AnyBackup - Eisoo Confluence
+http://192.168.199.223:8070/backups/index.html | 备份服务接口 — AnyBackup7.0 1.0.0 文档
+
+https://juejin.im/post/5b87fc65e51d4538ce4378c1?utm_source=gold_browser_extension | Nginx学习笔记（反向代理&搭建集群） - 掘金
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992499 | 系统管理员-云存储管理 - AnyBackup - Eisoo Confluence
+https://blog.csdn.net/huobanjishijian/article/details/79030477 | 使用PyCharm进行远程开发和调试 - CSDN博客
+https://toutiao.io/posts/tg4k1w/preview | PyCharm 远程调试 - 开发者头条
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992591 | 安全管理员-云存储分配 - AnyBackup - Eisoo Confluence
+https://192.168.199.223:9600/usermgm/list | AnyBackup
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992591 | 安全管理员-云存储分配 - AnyBackup - Eisoo Confluence
+https://juejin.im/entry/5b7cfe976fb9a01a13366d95?utm_source=gold_browser_extension | Redis是单线程的，但Redis为什么这么快？ - 后端 - 掘金
+http://192.168.199.223:8070/commons/cloudstg/get_cloud_operators.html | GET commons/cloud/([a-zA-Z0-9]+)/operators — AnyBackup7.0 1.0.0 文档
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992591 | 安全管理员-云存储分配 - AnyBackup - Eisoo Confluence
+http://192.168.199.223:8070/commons/cloudstg/get_clouds.html | GET commons/clouds/ — AnyBackup7.0 1.0.0 文档
+http://192.168.199.223:8070/oauths/user/users.html | GET /oauths/users — AnyBackup7.0 1.0.0 文档
+https://www.google.ru/search?newwindow=1&ei=qcR7W_niGeTt6QTjmaPYCw&q=django+objects&oq=django+objects&gs_l=psy-ab.3..0l10.140621.144138.0.145062.4.4.0.0.0.0.655.1119.4-1j1.2.0....0...1c.1j4.64.psy-ab..2.2.1115...0i67k1.0.ifWQtWuZpPg | django objects - Google 搜索
+https://code.ziqiangxuetang.com/django/django-send-email.html | Django 发送邮件 - Django 教程 - 自强学堂
+https://www.jianshu.com/p/1f00a13d7267 | Django数据库操作之save与update - 简书
+https://y.qq.com/portal/player.html | AI…正在播放 重庆魂-G
+https://192.168.199.223:9600/notify/alarm | AnyBackup
+https://docs.djangoproject.com/zh-hans/2.1/topics/testing/tools/ | Testing tools | Django documentation | Django
+https://code.ziqiangxuetang.com/django/django-test.html | Django 单元测试 - Django 教程 - 自强学堂
+https://www.google.ru/search?q=urllib3%E5%BA%93%E5%B8%A6token%E8%AF%B7%E6%B1%82%E5%A4%B4&newwindow=1&ei=pc97W7uzDfHX6QTr067IDg&start=10&sa=N&biw=1366&bih=631 | urllib3库带token请求头 - Google 搜索
+http://blog.51cto.com/lookingdream/category14.html | python-梦想照进现实-51CTO博客
+https://www.google.ru/search?q=urllib2+%E8%8E%B7%E5%8F%96json%E7%BB%93%E6%9E%9C&oq=urllib2+%E8%8E%B7%E5%8F%96json%E7%BB%93%E6%9E%9C&aqs=chrome..69i57.11039j0j9&sourceid=chrome&ie=UTF-8 | urllib2 获取json结果 - Google 搜索
+https://zhuanlan.zhihu.com/p/25102367 | 全栈 - 8 爬虫 使用urllib2获取数据
+https://segmentfault.com/q/1010000000361812 | python - post 请求获取 json - SegmentFault 思否
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992499 | 系统管理员-云存储管理 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992681#AB6.0%E6%BE%B3%E9%97%A8%E5%85%AC%E8%81%8C%E5%B1%80%E9%A1%B9%E7%9B%AE-CB-2513%E6%94%AF%E6%8C%81%E6%9F%A5%E7%9C%8B%E5%8D%95%E4%B8%AA%E4%BB%BB%E5%8A%A1%E5%A4%87%E4%BB%BD%E8%BF%90%E8%A1%8C%E5%A4%9A%E6%AC%A1%E5%90%8E%E5%8D%A0%E7%94%A8%E7%9A%84%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F | AB 6.0 澳门公职局项目 - AnyBackup - Eisoo Confluence
+http://192.168.199.223:8070/commons/cloudstg/get_cloud_operators.html | GET commons/cloud/([a-zA-Z0-9]+)/operators — AnyBackup7.0 1.0.0 文档
+
+https://mubu.com/list#ArKgszuWr | 我的文档 - 幕布
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992499&preview=/17992499/17993080/%E6%B7%BB%E5%8A%A0%E4%BA%91%E5%AD%98%E5%82%A8_-2.png | 系统管理员-云存储管理 - AnyBackup - Eisoo Confluence
+https://192.168.199.223:9600/resources/clientmgm | AnyBackup
+https://music.163.com/ | ▶ 理想三旬
+https://mubu.com/ | 幕布 - 极简大纲笔记 | 一键生成思维导图
+http://192.168.248.76/wu.zhimin/Apollo | 吴植民 / Apollo · GitLab
+http://confluence.eisoo.com/display/DMS/Git+fork | Git fork - AnyBackup - Eisoo Confluence
+http://192.168.248.76:8070/ | 爱数 AnyBackup7.0 Web API — AnyBackup7.0 1.0.0 文档
+http://192.168.248.76:8070/#id4 | 爱数 AnyBackup7.0 Web API — AnyBackup7.0 1.0.0 文档
+http://confluence.eisoo.com:8090/pages/viewpage.action?pageId=3378747 | CommonService使用规则 - AnyBackup - Eisoo Confluence
+
+http://jm.taobao.org/ | 阿里中间件团队博客
+
+https://music.163.com/ | 网易云音乐
+http://192.168.248.76/dashboard/projects | Projects · Dashboard · GitLab
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992591 | 安全管理员-云存储分配 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992499 | 系统管理员-云存储管理 - AnyBackup - Eisoo Confluence
+https://192.168.199.223:9600/resources/anyshare | AnyBackup
+http://confluence.eisoo.com/pages/viewpage.action?pageId=17992499 | 系统管理员-云存储管理 - AnyBackup - Eisoo Confluence
+
+https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md#1-%E5%8D%95%E4%BE%8Bsingleton | Interview-Notebook/设计模式.md at master · CyC2018/Interview-Notebook
+https://github.com/CyC2018/Interview-Notebook | CyC2018/Interview-Notebook: 技术面试需要掌握的基础知识整理
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=11405175 | Thrift的几点经验 - AnyBackup - Eisoo Confluence
+http://eventlet.net/doc/index.html | Eventlet Documentation — Eventlet 0.24.1 documentation
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3378775 | [SQL Server数据库客户端权限配置] - AnyBackup - Eisoo Confluence
+http://www.ruanyifeng.com/blog/2018/08/svg.html | SVG 图像入门教程 - 阮一峰的网络日志
+https://juejin.im/post/5ab9ae9cf265da23830ae617 | 八大基础排序总结 - 掘金
+https://192.168.199.223:9600/notify/jobalarm | AnyBackup
+https://blog.olowolo.com/post/new-mybatis-dynamic-sql/ | Mybatis Dynamic SQL - 重新定义 Mybatis 动态 SQL - olOwOlo's Blog
+http://confluence.eisoo.com:8090/pages/viewpage.action?pageId=17993217 | python epms 实现&应用 解析 - AnyBackup - Eisoo Confluence
+https://music.163.com/#/discover/recommend/taste | ▶ 永不失联的爱（Cover 周兴哲）
+https://www.google.ru/search?newwindow=1&ei=3_ZzW-fHK6TO6ASlxRc&q=django+basecommand&oq=django+BaseC&gs_l=psy-ab.3.0.0l4j0i30k1l6.152125.157298.0.160669.12.12.0.0.0.0.701.1667.4-1j1j1.3.0....0...1c.1.64.psy-ab..9.3.1663...0i67k1j0i12k1j0i10k1.0.ngQKa-W_Dss | django basecommand - Google 搜索
+http://www.cnblogs.com/holbrook/archive/2012/03/09/2387679.html | 扩展Django:实现自己的manage命令 - 心内求法 - 博客园
+https://docs.djangoproject.com/en/2.0/_modules/django/core/management/base/ | django.core.management.base | Django documentation | Django
+
+https://www.ibm.com/developerworks/cn/java/j-spring-boot-basics-perry/index.html | Spring Boot 基础
+
+https://blog.csdn.net/column/details/22180.html | 专栏：Java就业专栏 - CSDN博客
+https://blog.csdn.net/jackfrued/article/details/44931137 | Java面试题全集（中） - CSDN博客
+
+https://blog.csdn.net/jackfrued/article/details/44921941 | Java面试题全集（上） - CSDN博客
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3378887 | 架构设计（CDM） - AnyBackup - Eisoo Confluence
+https://192.168.199.223:9600/resources/anyshare | AnyBackup
+ftp://192.168.123.46/ci-jobs/AB7.0/package/AnyBackupServer/Linux_el7_x64/ | /ci-jobs/AB7.0/package/AnyBackupServer/Linux_el7_x64/ 的索引
+
+https://github.com/Snailclimb/Java-Guide?utm_source=gold_browser_extension#coffee-Java | Snailclimb/Java-Guide: Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
+https://blog.csdn.net/jackfrued/article/details/44921941 | Java面试题全集（上） - CSDN博客
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3378929&focusedCommentId=17992540&refresh=1534149514866#comment-17992540 | AnyBackup 7.0开发文档 - AnyBackup - Eisoo Confluence
+https://github.com/Snailclimb/Java-Guide?utm_source=gold_browser_extension#coffee-Java | Snailclimb/Java-Guide: Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
+https://github.com/crossoverJie/Java-Interview/blob/master/MD/ArrayList.md | Java-Interview/ArrayList.md at master · crossoverJie/Java-Interview
+https://github.com/crossoverJie/Java-Interview/blob/master/MD/ArrayList.md | Java-Interview/ArrayList.md at master · crossoverJie/Java-Interview
+http://192.168.248.76:8070/commons/client/platform.html#id3 | ncVplatFormType对象说明 — AnyBackup7.0 1.0.0 文档
+https://music.163.com/#/discover/toplist?id=3778678 | ▶ Moonlight
+https://www.google.ru/search?q=ArrayList+%E4%B8%8E+Vector+%E5%8C%BA%E5%88%AB&oq=array&aqs=chrome.3.69i57j69i60l2j69i59l2j69i60.3657j0j1&sourceid=chrome&ie=UTF-8 | ArrayList 与 Vector 区别 - Google 搜索
+https://www.jianshu.com/p/4a0c193b66bd | Java中Vector和ArrayList的区别 - 简书
+https://www.cnblogs.com/wanlipeng/archive/2010/10/21/1857791.html | Java中Vector和ArrayList的区别 - 一沙鸥 - 博客园
+
+https://github.com/spring-projects/spring-boot/tree/da550efc6ba8cce601e2ce34432d1224184a2477/spring-boot-project/spring-boot-starters | spring-boot/spring-boot-project/spring-boot-starters at da550efc6ba8cce601e2ce34432d1224184a2477 · spring-projects/spring-boot
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#using-boot-starter | Spring Boot Reference Guide
+https://spring.io/guides/gs/rest-service/ | Getting Started · Building a RESTful Web Service
+https://github.com/spring-guides/gs-rest-service | spring-guides/gs-rest-service: Building a RESTful Web Service :: Learn how to create a RESTful web service with Spring. :: spring-boot
+https://yufan.me/rewrite-your-logic/ | 在编程中思考，简化你的判断逻辑 | 且听书吟
+https://yufan.me/springboot-brief-intro/ | Spring Boot 简介 | 且听书吟
+
+https://www.google.com/search?q=celery+%E4%B8%8E+rabbitmq&oq=celery+%E4%B8%8E+rabbitmq&aqs=chrome..69i57j0.5441j0j1&sourceid=chrome&ie=UTF-8 | celery 与 rabbitmq - Google 搜索
+http://docs.jinkan.org/docs/celery/getting-started/next-steps.html#next-steps | Next Steps — Celery 3.1.7 文档
+https://github.com/celery/celery/blob/3.1/extra/supervisord/supervisord.conf | celery/supervisord.conf at 3.1 · celery/celery
+https://github.com/celery/celery/blob/ec40d98ff52df2d8cc8e33fac4f6d5f09bd7cc8a/examples/django/proj/celery.py | celery/celery.py at ec40d98ff52df2d8cc8e33fac4f6d5f09bd7cc8a · celery/celery
+https://mubu.com/edit/2WCCI97dHr | 启动celery任务 - 幕布
+http://louiszhai.github.io/2017/09/30/tmux/#%E6%96%AD%E5%BC%80%E5%BD%93%E5%89%8D%E4%BC%9A%E8%AF%9D | Tmux使用手册 | louis blog
+
+https://www.jianshu.com/p/4e5c534f14e4 | Django Celery RabbitMQ构建异步消息队列 - 简书
+http://www.hi-roy.com/2016/02/23/django-Celery-Rabbitmq-Flower%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/ | Django+Celery+Rabbitmq+Flower使用小记 - Hi!Roy!
+https://charlee.li/django-celery-rabbitmq-intro.html
+https://my.oschina.net/hncscwc/blog/262246 | rabbitmq——用户管理 - hncscwc的个人空间 - 开源中国
+https://blog.csdn.net/sinat_29699167/article/details/79688464 | django+celery+ RabbitMQ实现异步任务最完整教程 - CSDN博客
+
+https://blog.csdn.net/jackfrued/article/details/44921941 | Java面试题全集（上） - CSDN博客
+http://192.168.199.210:5555/tasks?limit=100 | Celery Flower
+http://192.168.199.210:15672/#/ | RabbitMQ Management
+https://juejin.im/repo/5b6026616fb9a00297bfbf98?utm_source=gold_browser_extension#1-coffee-java | Java-Guide - Snailclimb - 开源库 - 掘金
+https://github.com/Snailclimb/Java-Guide/blob/master/Java%E7%9B%B8%E5%85%B3/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md | Java-Guide/Java基础知识.md at master · Snailclimb/Java-Guide
+http://aoyouzi.iteye.com/blog/2308737 | 线程有哪些状态，相互之间是如何转换的？ - - ITeye博客
+
+https://blog.csdn.net/zheng911209/article/details/49945677 | centos7安装rabbitmq - CSDN博客
+
+https://zhuanlan.zhihu.com/p/40561675 | 近几个月Github上最热门的Java项目一览
+https://blog.csdn.net/jackfrued/article/details/44921941 | Java面试题全集（上） - CSDN博客
+
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379680 | 定时备份至云存储-文件系统-备份[V1.1] - AnyBackup - Eisoo Confluence
+https://github.com/byWeaponLin/sql-generator | byWeaponLin/sql-generator: Custom SQL Generator.You will learn how to design it.
+http://www.hi-roy.com/2016/02/23/django-Celery-Rabbitmq-Flower%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/ | Django+Celery+Rabbitmq+Flower使用小记 - Hi!Roy!
+https://charlee.li/django-celery-rabbitmq-intro.html | 使用django+celery+RabbitMQ实现异步执行
+
+https://www.lintcode.com/ladder/6/ | LintCode 领扣
+https://www.lintcode.com/problem/merge-two-sorted-lists/description?source=ladder | 165. 合并两个排序链表 - LintCode
+
+https://www.google.ru/search?newwindow=1&ei=yOhjW5LmLoP8swG_zKTIDg&q=django+models+meta+&oq=django+models+meta+&gs_l=psy-ab.3..0l3j0i30k1l6j0i5i30k1.5018.13382.0.13966.6.6.0.0.0.0.578.3171.5-6.6.0....0...1c.1j4.64.psy-ab..0.6.3164...0i67k1j0i12k1j0i10k1.0.h0Dxx0C00MA | django models meta - Google 搜索
+https://192.168.199.223:9600/resources/clientmgm | AnyBackup
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3380023 | 代码结构 - AnyBackup - Eisoo Confluence
+http://confluence.eisoo.com/pages/viewpage.action?pageId=3379527#space-menu-link-content | py代码结构 - AnyBackup - Eisoo Confluence
+
+https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386819879946007bbf6ad052463ab18034f0254bf355000 | 装饰器 - 廖雪峰的官方网站
+https://github.com/pyloque/iockids | pyloque/iockids: DI framework for kids of you
+http://confluence.eisoo.com:8090/pages/viewpage.action?pageId=3379854 | confluence.eisoo.com
+http://192.168.248.76/AnyBackup/Apollo | AnyBackup / Apollo · GitLab
+https://graphql.org/ | GraphQL | A query language for your API
+https://www.v2ex.com/t/474214?p=1 | JetBrains 招募中国技术佈道师 (IntelliJ IDEA、WebStorm、PyCharm) - V2EX
+
+https://github.com/pyloque/iockids | pyloque/iockids: DI framework for kids of you
+
+https://zhuanlan.zhihu.com/p/37738632 | 非对称加密与HTTPS
+https://www.v2ex.com/t/460749#reply2 | 非对称加密与 HTTPS - V2EX
+
+https://www.iswin.org/2015/11/13/Apache-CommonsCollections-Deserialized-Vulnerability/ | JAVA Apache-CommonsCollections 序列化漏洞分析以及漏洞高级利用 | 随风'S Blog
+
+https://www.v2ex.com/t/451321#reply6 | 信不信， 200 行 Java 代码就能实现依赖注入框架 - V2EX
+https://github.com/pyloque/ormkids | pyloque/ormkids: ORM framework with Sharding support for kids of you
+https://github.com/pyloque/httpkids | pyloque/httpkids: http server based on netty for kids
+
+https://studio.coding.net/ws/default?open=README.md | Home | Cloud Studio 开启云端开发模式！ - Coding.net
+https://studio.coding.net/ws/oihtvq | JavaDemo | Cloud Studio 开启云端开发模式！ - Coding.net
+https://coding.net/u/tanhe123/p/JavaDemo/git?public=true | tanhe123 - JavaDemo - Coding.net
+
+http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html | 以太坊开发入门，完整入门篇（小白可以看看，高手看看自己有没有遗漏的） - 区块链技术博客
+
+https://www.anquanke.com/post/id/85442 | 通过JMX访问破坏Apache Tomcat - 有思想的安全新媒体
+
+http://sha0k.iteye.com/blog/1386389 | Spring MVC 源码学习札记（四）HandlerMapping和HandlerAdapter(4) - sha0k爱生活 - ITeye博客
+
+https://www.quora.com/topic/Java-programming-language | Java (programming language) - Quora
+http://www.iteye.com/news?page=2 | ITeye资讯频道首页
+http://www.iteye.com/news/32924 | 自己手写一个 SpringMVC 框架 - 编程语言 - ITeye资讯
+
+https://github.com/KevinBlandy/javaweb-community | KevinBlandy/javaweb-community: javaweb开发者社区
+
+http://www.ppyjc.com.cn/index.php/archives/20/ | 谈谈对Spring IOC的理解 - 知识收录
+
+http://codingxiaxw.cn/2016/11/22/49-shiro-authorization/#more | Shiro之实现授权 | codingXiaxw's blog
+http://blog.csdn.net/mine_song/article/details/61616259 | shiro原理及其运行流程介绍 - CSDN博客
+
+https://github.com/dashboard/discover | Discover Repositories
+https://github.com/SpringForAll/spring-guides-translation | SpringForAll/spring-guides-translation: Spring官方教程【中文版】，最好的入门指南！
+https://github.com/JeffLi1993/java-core-learning-example | JeffLi1993/java-core-learning-example: 关于Java核心技术学习积累的例子，是初学者及核心技术巩固的最佳实践。
+
+http://bayescafe.com/career/campus-recruitment-experience.html | 从面试官的角度分享一些后端校招经验 - 贝叶书
+
+https://github.com/igaozp/SSM | igaozp/SSM: Spring + Spring MVC + Mybatis 构建的简易论坛
+
+https://www.ibm.com/developerworks/cn/java/j-lo-classloader/ | 深入探讨 Java 类加载器
+http://blog.csdn.net/javazejian/article/details/73413292?yyue=a21bo.50862.201879 | 深入理解Java类加载器(ClassLoader) - CSDN博客
+
+http://blog.csdn.net/jackfrued/article/details/44499227 | 关于Java并发编程的总结和思考 - 骆昊的技术专栏 - CSDN博客
+
+https://github.com/xulingbo/xulingbo.github.io | xulingbo/xulingbo.github.io: 蓝色冰火
+https://www.ibm.com/developerworks/cn/java/j-lo-servlet/ | Servlet 工作原理解析
+https://www.ibm.com/developerworks/cn/java/j-lo-servlet/image003.jpg | image003.jpg (1166×1121)
+https://www.ibm.com/developerworks/cn/java/j-top-java-content-2017/index.html | 精选内容：developerWorks 上最受欢迎的 Java 内容
+
+https://github.com/lihengming/spring-boot-api-project-seed/blob/master/src/main/java/com/company/project/configurer/WebMvcConfigurer.java | spring-boot-api-project-seed/WebMvcConfigurer.java at master · lihengming/spring-boot-api-project-seed
+https://v2.bootcss.com/getting-started.html#examples | 起步 · Bootstrap
+http://blog.csdn.net/jackfrued/article/details/44921941 | Java面试题全集（上） - 骆昊的技术专栏 - CSDN博客
+
+http://192.168.1.191:8888/API/threat_detection/event.html#id3 | 威胁事件API接口 — 磐石用户文档 0.1 documentation
+file:///H:/sparknote/%E4%BA%91%E5%B9%B3%E5%8F%B01.2%E7%89%88%E6%9C%AC%E5%8E%9F%E5%9E%8B%E5%9B%BE-%E6%94%B95/index.html#g=1&p=僵尸主机 | 僵尸主机
+file:///H:/sparknote/%E4%BA%91%E5%B9%B3%E5%8F%B01.2%E7%89%88%E6%9C%AC%E5%8E%9F%E5%9E%8B%E5%9B%BE-%E6%94%B95/index.html#g=1&p=威胁情报管理 | 威胁情报管理
+https://cwiki.apache.org/confluence/display/KAFKA/KIP-62%3A+Allow+consumer+to+send+heartbeats+from+a+background+thread | KIP-62: Allow consumer to send heartbeats from a background thread - Apache Kafka - Apache Software Foundation
+https://github.com/search?utf8=%E2%9C%93&q=SSM&type= | Search · SSM
+https://github.com/crossoverJie/SSM | crossoverJie/SSM: Build SSM from 0 👉🏽👉🏽 Distributed micro service.
+https://crossoverjie.top/2016/12/18/SSM7/ | SSM(七)在JavaWeb应用中使用Redis | crossoverJie's Blog
+https://crossoverjie.top/2017/04/07/SSM11/ | SSM(十一) 基于dubbo的分布式架构 | crossoverJie's Blog
+https://github.com/ZHENFENG13/ssm-demo | ZHENFENG13/ssm-demo: Spring+SpringMVC+Mybatis+easyUI实现简单的后台管理系统
+http://192.168.1.191/threat/dashboard | 威胁检测
+
+https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/spark-streaming/fault-tolerance-semantics/index.html | 容错语义 | Spark编程指南 - 简体中文版
+http://blog.csdn.net/pelick/article/details/11148489 | Spark实践的阶段性总结 - 张包峰的博客 - CSDN博客
+
+http://192.168.1.191:8888/API/threat_detection/event.html#id5 | 威胁事件API接口 — 磐石用户文档 0.1 documentation
+file:///H:/sparknote/%E4%BA%91%E5%B9%B3%E5%8F%B01.2%E7%89%88%E6%9C%AC%E5%8E%9F%E5%9E%8B%E5%9B%BE-%E6%94%B95/index.html#g=1&p=威胁情报管理 | 威胁情报管理
+http://docs.mongoengine.org/apireference.html#context-managers | 3. API Reference — MongoEngine 0.15.0 documentation
+https://www.jianshu.com/p/0b6810c372b0 | django使用mongoengine - 简书
+https://www.jianshu.com/p/0b6810c372b0 | django使用mongoengine - 简书
+https://www.linuxzen.com/mongoengineshi-yong-bi-ji.html | mongoengine使用笔记
+http://www.cnblogs.com/windlaughing/p/3286699.html | 三种数据库访问——原生JDBC - windlaughing - 博客园
+http://www.cnblogs.com/caigq/p/7049215.html | 原生JDBC - 涅槃重生者 - 博客园
+
+https://github.com/codingXiaxw/seckill | codingXiaxw/seckill: the source code of `seckill` with development documentation
+https://www.google.co.jp/search?q=windows%E5%AE%89%E8%A3%85redis&oq=windows%E5%AE%89%E8%A3%85redis&aqs=chrome..69i57j0l5.5416j0j7&sourceid=chrome&ie=UTF-8 | windows安装redis - Google 搜索
+http://www.runoob.com/redis/redis-install.html | Redis 安装 | 菜鸟教程
+http://blog.csdn.net/lzwglory/article/details/17252099 | springMVC produces属性含义 - CSDN博客
+http://blog.csdn.net/fjslovejhl/article/details/14522417 | springMVC之ContextLoaderListener分析 - CSDN博客
+
+http://192.168.1.191/st/page/list | 云防篡改
+https://github.com/huyubing/books-pdf/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A%EF%BC%88SICP%E4%B8%AD%E6%96%87%E7%AC%AC2%E7%89%88%EF%BC%89.pdf | books-pdf/计算机程序的构造和解释（SICP中文第2版）.pdf at master · huyubing/books-pdf
+http://192.168.1.191/st/page/list | 云防篡改
+
+http://download.csdn.net/download/gdouchufu/8946595 | 深入体验Java Web开发内幕——核心基础（张孝祥）-CSDN下载
+https://book.douban.com/review/6694419/ | 最好的Java Web开发入门读物（深入体验Java Web开发内幕）书评
+http://blog.csdn.net/jackfrued/article/details/44921941 | Java面试题全集（上） - 骆昊的技术专栏 - CSDN博客
+http://blog.csdn.net/jackfrued/article/details/44499227
+
+https://github.com/JaceyRx/Examination_System/blob/master/src/main/resources/mysql.properties | Examination_System/mysql.properties at master · JaceyRx/Examination_System
+https://github.com/HeatDeath/examination_system | HeatDeath/examination_system: 使用SSM框架搭建的简单教务查询系统
+https://github.com/codingXiaxw/ssm | codingXiaxw/ssm: a simple example introducing SSM's basic development knowledge with detailed manual
+http://codingxiaxw.cn/2016/11/22/49-shiro-authorization/#more | Shiro之实现授权 | codingXiaxw's blog
+http://codingxiaxw.cn/2016/11/19/46-ssm%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91/ | SSM注解开发的高级知识讲解 | codingXiaxw's blog
+https://holynull.gitbooks.io/-spring-mvc-apache-shiro-/content/ | Introduction · 在Spring MVC中使用Apache Shiro安全框架
+https://crossoverjie.top/2016/07/15/SSM3/ | SSM(三)Shiro使用详解 | crossoverJie's Blog
+
+https://yun.baidu.com/disk/home?#list/vmode=list&path=%2F%E6%88%91%E7%9A%84%E8%B5%84%E6%BA%90%2Fjava%E4%BC%81%E4%B8%9A%E7%94%B5%E5%95%86 | 百度网盘-全部文件
+https://pan.baidu.com/s/1eRUlMSE#list/path=%2F%E6%96%B0%E4%B9%B0%E7%9A%84%2Fjava%E4%BC%81%E4%B8%9A%E7%94%B5%E5%95%86&parentPath=%2F%E6%96%B0%E4%B9%B0%E7%9A%84 | java企业电商_免费高速下载|百度网盘-分享无限制
+http://blog.csdn.net/HeatDeath/article/details/78701259 | 基于SSM框架的教务查询系统实践（2）—— 系统设计 - HeatDeath的博客 - CSDN博客
+http://blog.csdn.net/heatdeath/article/details/78385676 | 使用 MyBatis-generator 插件逆向工程生成 Mapper、Dao、PO 文件的方法 - HeatDeath的博客 - CSDN博客
+https://github.com/liyifeng1994/ssm | liyifeng1994/ssm: 手把手教你整合最优雅SSM框架：SpringMVC + Spring + MyBatis
+https://github.com/HeatDeath/examination_system | HeatDeath/examination_system: 使用SSM框架搭建的简单教务查询系统
+https://github.com/JaceyRx/Examination_System/blob/master/sql/examination_system.sql | Examination_System/examination_system.sql at master · JaceyRx/Examination_System
+http://blog.csdn.net/qq_27093465/article/details/63683873 | IntelliJ IDEA 创建 hello world Java web Maven项目从头到尾都有图有真相2017版本 - 请叫我大师兄 - CSDN博客
+https://www.jianshu.com/p/2101d176555b | IntelliJ IDEA创建SpringMVC+Maven项目 - 简书
+http://blog.csdn.net/cquwel/article/details/59495083 | IDEA用maven创建springMVC项目和配置（XML配置和Java配置） - CSDN博客
+https://github.com/Alertsu/eBook/blob/master/JAVA%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%20%E5%8D%B7I%EF%BC%88%E5%8E%9F%E4%B9%A6%E7%AC%AC9%E7%89%88%EF%BC%89.pdf | eBook/JAVA核心技术 卷I（原书第9版）.pdf at master · Alertsu/eBook
+
+https://pan.baidu.com/s/1i5zjmJz?&adapt=pc&fr=ftw#list/path=%2F%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F%E9%A1%B9%E7%9B%AE%2FSpringMVC%E5%95%86%E5%9F%8E%E5%BC%80%E5%8F%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E6%96%87%E4%BB%B6%2F%E5%95%86%E5%9F%8E%E8%A7%86%E9%A2%91%E5%8A%A0%E4%BB%A3%E7%A0%81&parentPath=%2F | 商城视频加代码_免费高速下载|百度网盘-分享无限制
+
+https://www.kancloud.cn/digest/java-thread/107457 | Java线程(二)：线程同步synchronized和volatile · Java线程 · 看云
+
+http://www.sojson.com/api/beian.html | 域名备案API | 备案免费接口 | 网站备案查询 | JSON 在线免费API
+
+https://www.kancloud.cn/yubang/spring/97389 | spring自带简易缓存 · spring4学习 · 看云
+https://www.kancloud.cn/ | 看云 | 专注技术文档在线创作、阅读、分享和托管
+https://www.gitbook.com/search?q=spring&page=0&type=books&sort=stars | Search · GitBook
+https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/publish/21-3/3-defining-@requestmapping-handler-methods.html | 定义@RequestMapping注解的处理方法 · Spring MVC 4.2.4.RELEASE 中文文档
+https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/publish/21-3/2-mapping-requests-with-@requestmapping.html | 使用@RequestMapping注解映射请求路径 · Spring MVC 4.2.4.RELEASE 中文文档
+https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/II.%20Getting%20started/10.%20Installing%20Spring%20Boot.html | 10. Spring Boot安装 · Spring Boot参考指南
+https://github.com/happyjey/ssm | happyjey/ssm: Spring+SpringMVC+Mybatis框架整合最佳实践
+
+http://codingxiaxw.cn/2016/11/29/57-socket-chatroom/#more | 『 Socket 』使用Socket实现TCP编程及聊天室的编写 | codingXiaxw's blog
+http://codingxiaxw.cn/2016/11/23/50-Shiro-Integration/ | Shiro整合Web项目及整合后的开发 | codingXiaxw's blog
+https://github.com/codingXiaxw/shiro | codingXiaxw/shiro: integrating `Shiro` into SSM to control the authority management
+http://codingxiaxw.cn/2016/11/19/46-ssm%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91/ | SSM注解开发的高级知识讲解 | codingXiaxw's blog
+http://codingxiaxw.cn/page/2/ | codingXiaxw's blog
+http://codingxiaxw.cn/2016/11/22/49-shiro-authorization/ | Shiro之实现授权 | codingXiaxw's blog
+
+http://www.django-rest-framework.org/api-guide/generic-views/ | Generic views - Django REST framework
+http://www.django-rest-framework.org/api-guide/viewsets/ | Viewsets - Django REST framework
+http://www.django-rest-framework.org/ | Home - Django REST framework
+http://www.django-rest-framework.org/api-guide/serializers/?q=validate | Serializers - Django REST framework
+http://usyiyi.cn/translate/django_182/topics/http/urls.html | URL 调度器 — Django 1.8.2 中文文档
+http://192.168.1.191:8888/API/threat_detection/event.html#id2 | 威胁事件API接口 — 磐石用户文档 0.1 documentation
+http://blog.csdn.net/fragmentalice/article/details/51361536 | Django REST实现步骤 - CSDN博客
+http://umutbozkurt.github.io/django-rest-framework-mongoengine/serializers.html | Serializers — DRFM 3.x documentation
+https://github.com/umutbozkurt/django-rest-framework-mongoengine/tree/master/rest_framework_mongoengine | django-rest-framework-mongoengine/rest_framework_mongoengine at master · umutbozkurt/django-rest-framework-mongoengine · GitHub
+https://github.com/BurkovBA/django-rest-framework-mongoengine-example/blob/master/project/project/urls.py | django-rest-framework-mongoengine-example/urls.py at master · BurkovBA/django-rest-framework-mongoengine-example · GitHub
+http://www.django-rest-framework.org/api-guide/routers/ | Routers - Django REST framework
+https://github.com/alanjds/drf-nested-routers | GitHub - alanjds/drf-nested-routers: Nested Routers for Django Rest Framework
+
+https://github.com/codingXiaxw/ssm | GitHub - codingXiaxw/ssm: a simple example introducing SSM's basic development knowledge with detailed manual
+http://codingxiaxw.cn/2016/11/15/45-smm%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/ | 一个案例带你快速入门SSM开发 | codingXiaxw's blog
+http://codingxiaxw.cn/2016/11/19/46-ssm%E9%AB%98%E7%BA%A7%E5%BC%80%E5%8F%91/ | SSM注解开发的高级知识讲解 | codingXiaxw's blog
+http://codingxiaxw.cn/2016/11/11/39-Spring/ | Spring————程序员的春天 | codingXiaxw's blog
+http://codingxiaxw.cn/2016/11/07/33-MyBatis%E4%BD%BF%E7%94%A8mapper%E5%8A%A8%E6%80%81%E4%BB%A3%E7%90%86%E5%BC%80%E5%8F%91/ | MyBatis之Mapper动态代理开发 | codingXiaxw's blog
+https://github.com/codingXiaxw/ssm | GitHub - codingXiaxw/ssm: a simple example introducing SSM's basic development knowledge with detailed manual
+http://www.cnblogs.com/chenzhao/archive/2012/02/25/2367978.html | 解释@Component @Controller @Service @Repository - attitudedecidesall - 博客园
+http://www.cnblogs.com/chenzhao/archive/2012/02/25/2367978.html | 解释@Component @Controller @Service @Repository - attitudedecidesall - 博客园
+
+https://www.cnblogs.com/sunniest/p/4555801.html#!comments | 史上最全最强SpringMVC详细示例实战教程 - Sunnier - 博客园
+http://www.cnblogs.com/SLKnate/p/Java_serial_maven_spring_mybatis.html | Java系列--第一篇 Maven+Spring+Spring MVC+mybatis 示例 - nateliu - 博客园
+http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22log4j%22 | The Central Repository Search Engine
+https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/publish/21-3/2-mapping-requests-with-@requestmapping.html | 使用@RequestMapping注解映射请求路径 · Spring MVC 4.2.4.RELEASE 中文文档
+https://www.zhihu.com/question/23393550 | (5 封私信 / 39 条消息)Java web项目视频推荐？ - 知乎
+https://www.zhihu.com/question/65020818 | (5 封私信 / 41 条消息)学习JavaEE/SSM买那本书比较好?为什么? - 知乎
+https://book.douban.com/subject/25953851/ | 深入分析Java Web技术内幕 (豆瓣)
+
+https://www.cnblogs.com/sunniest/p/4555801.html | 史上最全最强SpringMVC详细示例实战教程 - Sunnier - 博客园
+https://www.jianshu.com/p/f0cb99ad3619 | Eclipse下构建SpringMVC的Maven项目 - 简书
+https://www.jianshu.com/p/1eff16f60297 | Maven 使用教程 - 简书
+http://www.crackedzone.com/intellij-create-spring-mvc-project-by-maven.html | Intellij IDEA使用Maven快速创建Spring MVC Web项目工程 – Lancer's Blog
+http://www.cnblogs.com/ae6623/p/4998785.html | 彻底解决 intellij IDEA 卡顿 优化笔记 - _落雨 - 博客园
+
+http://192.168.199.58:4040/jobs/ | PythonStreamingKafkaipflux - Spark Jobs
+http://192.168.199.58:8080/ | Spark Master at spark://192.168.199.58:7077
+
+http://www.ituring.com.cn/book/download/87765880-2214-4a1b-9b77-ed9f869bc8f8 | 未命名 -1
+https://github.com/yahoo/kafka-manager | yahoo/kafka-manager: A tool for managing Apache Kafka.
+http://www.jianshu.com/p/c24ed08dfa63 | kafka集群管理工具kafka-manager部署安装 - 简书
+https://github.com/antonchen/KafkaOffsetMonitor#list-of-topics-for-a-group | antonchen/KafkaOffsetMonitor: A little app to monitor the progress of kafka consumers and their lag wrt the queue.
+http://lxw1234.com/archives/2015/12/593.htm | Spark动态资源分配-Dynamic Resource Allocation – lxw的大数据田地
+
+https://www.ibm.com/developerworks/cn/java/wa-spring1/index.html | Spring 系列: Spring 框架简介
+https://www.ibm.com/Search/?q=spring&en=utf&sn=dw&lang=zh&dws=cndw&cc=cn&ddr=&lo=zh&o=20 | IBM developerWorks 查询结果
+chrome://downloads/ | 下载内容
+http://sishuok.com/forum/blogCategory/showByCategory/60/49.html?user_id=2 | 跟我学spring3笔记 - zhang的笔记 - 记笔记 - 私塾在线 - 只做精品视频课程服务
+http://sishuok.com/forum/blogPost/list/2428.html | 【第二章】 IoC 之 2.2 IoC 容器基本原理 ——跟我学Spring3 - zhang的笔记 - 记笔记 - 私塾在线 - 只做精品视频课程服务
+https://www.google.co.jp/search?q=idea%E5%BB%BA%E7%AB%8Bspring&oq=idea%E5%BB%BA%E7%AB%8Bspring&aqs=chrome..69i57j0l5.5143j0j7&sourceid=chrome&ie=UTF-8 | idea建立spring - Google 搜索
+https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0ahUKEwi9xOeUq4fYAhVHe7wKHZM-B5IQFghIMAU&url=http%3A%2F%2Fwww.cnblogs.com%2FSinte-Beuve%2Fp%2F5730553.html&usg=AOvVaw3sY0yNS2p5Y3k6VuofWprC | https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=0ahUKEwi9xOeUq4fYAhVHe7wKHZM-B5IQFghIMAU&url=http%3A%2F%2Fwww.cnblogs.com%2FSinte-Beuve%2Fp%2F5730553.html&usg=AOvVaw3sY0yNS2p5Y3k6VuofWprC
+http://blog.leanote.com/post/brioal/Idea%E5%88%9B%E5%BB%BASpring-MVC%E9%A1%B9%E7%9B%AE | Idea创建Spring MVC项目
+https://spring.io/guides/gs/spring-boot/ | Getting Started · Building an Application with Spring Boot
+
+http://192.168.199.58:4040/streaming/ | PythonStreamingKafkaipflux - Streaming Statistics
+http://192.168.199.58:8080/ | Spark Master at spark://192.168.199.58:7077
+http://192.168.199.58:9000/addCluster | Add Cluster
+http://blog.csdn.net/lsshlsw/article/details/47300145 | kafka管理器kafka-manager部署安装 - CSDN博客
+
+http://www.mybatis.org/mybatis-3/zh/configuration.html | mybatis – MyBatis 3 | 配置
+http://www.cnblogs.com/luoxn28/p/5572663.html | MyBatis使用总结+整合Spring - luoxn28 - 博客园
+http://www.cnblogs.com/zhanjindong/p/3397828.html | MyBatis使用示例 - zhanjindong - 博客园
+
+http://blog.csdn.net/weixin_38655836/article/details/78525293 | spark streaming - kafka updateStateByKey 统计用户消费金额 - weixin_38655836的博客 - CSDN博客
+https://spark.apache.org/docs/0.7.2/api/streaming/spark/streaming/Duration.html | spark.streaming.Duration
+https://fangjian0423.github.io/2016/02/10/sparkstreaming-programming-guide/ | Spark Streaming编程指南笔记 | Format's Notes
+http://www.cnblogs.com/coser/archive/2012/01/06/2315216.html | Python网络编程中的select 和 poll I/O复用的简单使用 - 糖拌咸鱼 - 博客园
+http://www.cnblogs.com/muzinan110/p/5004469.html | Python-Select/Poll/Epoll使用 - muzinan110 - 博客园
+
+http://blog.csdn.net/weixin_38655836/article/details/78525293 | spark streaming - kafka updateStateByKey 统计用户消费金额 - weixin_38655836的博客 - CSDN博客
+https://spark.apache.org/docs/1.4.0/api/java/org/apache/spark/streaming/dstream/DStream.html#foreach(scala.Function1) | DStream (Spark 1.4.0 JavaDoc)
+https://www.ibm.com/developerworks/cn/java/ | IBM developerWorks 中国 : Java 开发概述
+https://www.ibm.com/developerworks/cn/views/java/libraryview.jsp?sort_by=&amp;show_abstract=true&amp;show_all=&amp;search_flag=&amp;contentarea_by=Java+technology&amp;search_by=Java+%E6%8A%80%E6%9C%AF%E6%92%AD%E5%AE%A2&amp;topic_by=-1&amp;type_by=%E6%89%80%E6%9C%89%E7%B1%BB%E5%88%AB&amp;ibm-search=%E6%90%9C%E7%B4%A2 | IBM developerWorks 中国 : Java technology : 文档库
+https://ningsm.github.io/2017/09/Reusing-Results-of-Spark-RDD/ | RDD在Spark SQL中重用的方法研究---IEEE论文总结
+http://smallx.me/2016/06/07/spark%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/ | spark使用总结 | smallx's sth.
+
+http://www.cnblogs.com/octobershiner/archive/2011/11/04/2236730.html | 设计模式学习----装饰器模式 - leeon - 博客园
+http://zqhxuyuan.github.io/2017/10/25/Java-Threads/# | 图解Java多线程 | zqhxuyuan
+
+http://www.cnblogs.com/fanzhidongyzby/p/6185293.html | 图解Spark API - Florian - 博客园
+http://www.ituring.com.cn/book/download/87765880-2214-4a1b-9b77-ed9f869bc8f8 | 未命名 -1
+https://spark.apache.org/docs/latest/streaming-programming-guide.html | Spark Streaming - Spark 2.2.0 Documentation
+http://dblab.xmu.edu.cn/blog/989-2/ | Spark入门：RDD编程_厦大数据库实验室博客
+http://blog.csdn.net/jasonding1354/article/details/46845599 | 【Spark】RDD操作详解2——值型Transformation算子 - CSDN博客
+http://www.jianshu.com/p/7fcbb1ec8cdc | Spark数据操作—RDD操作 - 简书
+https://www.google.com/search?q=spark%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3&oq=spark%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3&aqs=chrome..69i57.24450j0j7&sourceid=chrome&ie=UTF-8 | spark使用详解 - Google 搜索
+http://blog.csdn.net/guohecang/article/details/51736572 | Spark RDD使用详解1--RDD原理 - CSDN博客
+http://blog.csdn.net/guohecang/article/details/51742557 | Spark RDD使用详解2--RDD创建方式 - CSDN博客
+
+http://www.cnblogs.com/fanzhidongyzby/p/6185293.html | 图解Spark API - Florian - 博客园
+https://endymecy.gitbooks.io/spark-programming-guide-zh-cn/content/spark-streaming/basic-concepts/transformations-on-DStreams.html | DStream中的转换 · spark-programming-guide-zh-cn
+https://fangjian0423.github.io/2016/02/10/sparkstreaming-programming-guide/ | Spark Streaming编程指南笔记 | Format's Notes
+https://aiyanbo.gitbooks.io/spark-programming-guide-zh-cn/content/programming-guide/rdds/rdd-persistences.html | RDD持久化 | Spark编程指南 - 简体中文版
+https://www.ibm.com/developerworks/cn/opensource/os-cn-spark-practice2/ | Spark 实战, 第 2 部分:使用 Kafka 和 Spark Streaming 构建实时数据处理系统
+http://www.jianshu.com/p/04f8e78ea656 | spark streaming + kafka +python(编程)初探 - 简书
+https://github.com/lw-lin/CoolplaySpark/blob/master/Spark%20Streaming%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%E7%B3%BB%E5%88%97/1.1%20DStream%2C%20DStreamGraph%20%E8%AF%A6%E8%A7%A3.md | CoolplaySpark/1.1 DStream, DStreamGraph 详解.md at master · lw-lin/CoolplaySpark
+http://smallx.me/2016/06/07/spark%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/#u5BB9_u9519_u673A_u5236_u4E0E_u68C0_u67E5_u70B9 | spark使用总结 | smallx's sth.
+
+http://www.mybatis.org/mybatis-3/zh/getting-started.html | mybatis – MyBatis 3 | 入门
+
+https://github.com/google/protobuf | google/protobuf: Protocol Buffers - Google's data interchange format
+http://www.cnblogs.com/Anker/p/3209764.html | Centos6.4下安装protobuf及简单使用 - Anker's Blog - 博客园
+https://blog.jeffli.me/blog/2016/12/08/install-protocol-buffer-from-source-in-centos-7/ | Install Protocol Buffer from Source in CentOS 7 - Jeff Li
+http://linux.it.net.cn/CentOS/course/2014/0623/1738.html | Centos6.4下安装protobuf及简单使用
+http://www.linuxidc.com/Linux/2017-03/142243.htm | CentOS6.5下Python版本的ProtoBuf编译及安装_Linux教程_Linux公社-Linux系统门户网站
+http://linux.linuxidc.com/index.php?folder=MjAxN8Tq18rBzy8z1MIvMjfI1S9DZW50T1M2LjXPwlB5dGhvbrDmsb61xFByb3RvQnVmseDS67ywsLLXsA== | Linux公社资源站_Linux公社-Linux系统门户网站 Index of: Home/2017年资料/3月/27日/CentOS6.5下Python版本的ProtoBuf编译及安装/
+https://github.com/google/googletest/releases | Releases · google/googletest
+
+https://www.v2ex.com/notes/30731 | V2EX › Java IO
+http://www.runoob.com/java/java-files-io.html | Java 流(Stream)、文件(File)和IO | 菜鸟教程
+http://www.mybatis.org/mybatis-3/zh/index.html | mybatis – MyBatis 3 | 简介
+https://www.zhihu.com/question/21142149 | (5 封私信 / 42 条消息)Java新手如何学习Spring、Struts、Hibernate三大框架？ - 知乎
+http://www.iteye.com/blogs/subjects/springmvc-explore | 博客专栏 - SpringMVC深度探险
+http://downpour.iteye.com/blog/1330537#comments | SpringMVC深度探险（一） —— SpringMVC前传 - downpour - ITeye博客
+http://www.mamicode.com/info-detail-324873.html | 利用IntelliJ IDEA社区版开发servlet
+https://www.ibm.com/developerworks/cn/java/j-lo-javaio/index.html | 深入分析 Java I/O 的工作机制
+
+file:///D:/%E7%94%A8%E6%88%B7%E7%9B%AE%E5%BD%95/%E4%B8%8B%E8%BD%BD/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F.pdf | 深入理解计算机系统.pdf
+https://www.ibm.com/developerworks/cn/java/j-introtojava1/index.html | Java 编程简介，第 1 部分: Java 语言基础
+http://www.cnblogs.com/fanzhidongyzby/p/6185293.html | 图解Spark API - Florian - 博客园
+https://www.qcloud.com/community/article/526845?fromSource=gwzcw.91788.91788.91788 | Spark 踩坑记：数据库（Hbase+Mysql） - 腾讯云社区 - 腾讯云
+http://spark.apache.org/docs/latest/streaming-programming-guide.html#output-operations-on-dstreams | Spark Streaming - Spark 2.2.0 Documentation
+https://github.com/thesamet/sbtb2016-votes/blob/master/spark/src/main/scala/votes/Aggregator.scala | sbtb2016-votes/Aggregator.scala at master · thesamet/sbtb2016-votes
+
+https://www.cnblogs.com/MOBIN/p/5373256.html | Spark函数详解系列之RDD基本转换 - MOBIN - 博客园
+https://www.ibm.com/developerworks/cn/java/j-introtojava1/index.html | Java 编程简介，第 1 部分: Java 语言基础
+http://colobu.com/2014/08/06/kafka-quickstart/ | Kafka快速入门 | 鸟窝
+http://www.aboutyun.com/thread-13431-1-1.html | 百度：Spark技术内幕-Spark-about云开发
+https://github.com/mongodb/mongo-python-driver | mongodb/mongo-python-driver: PyMongo - the Python driver for MongoDB
+http://infullstack.com/python_kafka.html | python操作kafka – 全栈记
+https://github.com/Parsely/pykafka | Parsely/pykafka: Apache Kafka client for Python; high-level & low-level consumer/producer, with great performance.
+http://www.jianshu.com/p/cfedb7122e38 | Kafka常用命令行总结 - 简书
+https://www.google.com.tw/search?ei=FqceWsXQFcKi0QTwyYnICw&q=Python2+%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%BB%98%E8%AE%A4%E6%98%AFbytes&oq=Python2+%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%BB%98%E8%AE%A4%E6%98%AFbytes&gs_l=psy-ab.3...461.6470.0.6799.19.12.6.0.0.0.140.1098.5j5.10.0....0...1c.1j4.64.psy-ab..3.0.0....0.0hjozadQXlQ | Python2 的字符串默认是bytes - Google 搜索
+https://www.crifan.com/summary_python_string_encoding_decoding_difference_and_comparation_python_2_x_str_unicode_vs_python_3_x_bytes_str/ | 【整理】Python中字符编码的总结和对比：Python 2.x的str和unicode vs Python 3.x的bytes和str – 在路上
+http://www.aboutyun.com/thread-12882-1-1.html | Kafka入门经典教程-Kafka-about云开发
+https://tech.meituan.com/kafka-fs-design-theory.html | Kafka文件存储机制那些事 -
+
+https://www.xncoding.com/page/5/ | 会飞的污熊
+https://www.xncoding.com/2017/03/29/web/oauth2.html | 简单介绍OAuth2.0的授权流程 | 会飞的污熊
+https://www.xncoding.com/2017/01/20/python/uwsgi.html | Nginx+uWSGI部署Python Web应用 | 会飞的污熊
+
+https://github.com/listen1/listen1_chrome_extension/commit/f9305900adfa0276673ac5985760dd1a9c2ae806 | add open playlist url feature, fix origin field in http header · listen1/listen1_chrome_extension@f930590
+
+https://github.com/choleraehyq/WebChat | choleraehyq/WebChat: A webchat app using flask and socketio.
+https://www.ibm.com/developerworks/cn/views/web/libraryview.jsp?sort_by=&show_abstract=true&show_all=&search_flag=&contentarea_by=Web+development&search_by=%E5%8F%8D%E5%90%91+Ajax+%E9%83%A8%E5%88%86&topic_by=-1&type_by=%E6%89%80%E6%9C%89%E7%B1%BB%E5%88%AB&ibm-search=%E6%90%9C%E7%B4%A2 | IBM developerWorks 中国 : Web development : 文档库
+https://www.ibm.com/developerworks/cn/web/wa-reverseajax1/index.html | 反向 Ajax，第 1 部分: Comet 简介
